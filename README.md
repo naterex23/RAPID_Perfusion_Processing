@@ -6,10 +6,10 @@ All code should be executable with functions included in standard python librari
 
 A link to the publication will be added when appropriate. 
 
-Note that this code takes generic RAPID output files (converted to a nifti format, files ending in ".nii" & ".nii.gz"), similar to below: 
+Note that this code takes generic RAPID output files (in their raw ".dcm" form), similar to below: 
 
 ![image (4)](https://user-images.githubusercontent.com/58052594/214413819-c18dd66a-513e-427d-9583-19c48c817cb6.png)
 
-And converts each threshold to a segmentation that can be analyzed using a variety of medical imaging software. Notably, I used 3D Slicer (http://slicer.org). 
+And converts each to 2 nifti (".nii"/".nii.gz") files types, one including "lesion mask" and the other the rest of the original file. Each lesion mask contains multiple thresholds to a segmentation that can be analyzed using a variety of medical imaging software. Notably, I used 3D Slicer (http://slicer.org). 
 
-If you have any questions or comments, feel free to comment or email me at nathaniel (underscore) rex@brown.edu 
+If you have any questions or comments, feel free to comment or email me at nathaniel(underscore)rex(at)brown.edu 
