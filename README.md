@@ -1,10 +1,10 @@
 # RAPID_Perfusion_Processing
 
-The purpose of this repository is to house the code associated with the processing of RAPID perfusion images associated with the ESCAPE-NA1 Database. 
+The purpose of this repository is to host code associated with the processing of RAPID perfusion images associated with the ESCAPE-NA1 Database. 
 
 All code should be executable with functions included in standard python libraries without modification.
 
-A link to the publication will be added when appropriate. 
+A link to the publication will be added when available. 
 
 Note that this code takes generic RAPID output files (in their raw ".dcm" form), similar to below: 
 
