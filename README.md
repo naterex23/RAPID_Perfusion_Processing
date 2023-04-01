@@ -1,6 +1,8 @@
 # RAPID_Perfusion_Processing
 
-The purpose of this repository is to host code associated with the processing of RAPID perfusion images associated with the ESCAPE-NA1 Database. 
+The purpose of this repository is to host code associated with the processing of RAPID perfusion images associated with the ESCAPE-NA1 Database.
+
+The original ESCAPE-NA1 publication can be found at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30258-0/fulltext 
 
 All code should be executable with functions included in standard python libraries without modification.
 
