@@ -48,7 +48,7 @@ print("executed this code block...")
 
 import vtkSegmentationCorePython as vtkSegmentationCore
 
-def extract_stats(cwd, fu_seg, rapid_seg, segmentID):
+def extract_stats(fu_seg, rapid_seg, segmentID):
     cwd = os.getcwd()
     maskNode = slicer.util.loadLabelVolume(fu_seg)
     seg = slicer.mrmlScene.AddNewNodeByClass('vtkMRMLSegmentationNode')
