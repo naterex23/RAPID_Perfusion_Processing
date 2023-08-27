@@ -6,8 +6,6 @@ The original ESCAPE-NA1 publication can be found at: https://www.thelancet.com/j
 
 All code should be executable with functions included in standard python libraries without modification.
 
-A link to any associated publications will be added when available. 
-
 Note that this code takes generic RAPID output files (in their raw ".dcm" form), similar to below: 
 
 ![image (4)](https://user-images.githubusercontent.com/58052594/214413819-c18dd66a-513e-427d-9583-19c48c817cb6.png)
