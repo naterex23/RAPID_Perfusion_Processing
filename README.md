@@ -14,7 +14,7 @@ Note that this code takes generic RAPID output files (in their raw ".dcm" form),
 
 And converts each to 2 nifti (".nii"/".nii.gz") files types, including one "lesion mask" file and one "brain extracted" (or, perhaps more accurately, "text removed") file. Each lesion mask contains multiple thresholds to a segmentation that can be analyzed using a variety of medical imaging software packages. Notably, I used 3D Slicer (http://slicer.org). 
 
-If you use this code for your work, please consider siting the following publication:
+If you use this code for your work, please consider citing the following publication:
 
 
 CT Perfusion Does Not Modify the Effect of Reperfusion in Patients with Acute Ischemic Stroke Undergoing Endovascular Treatment in the ESCAPE-NA1 Trial
